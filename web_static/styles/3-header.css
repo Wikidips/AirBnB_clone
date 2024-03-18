@@ -1,13 +1,13 @@
 header {
     background-color: white;
-    border-bottom: solid 1px #cccccc;
     height: 70px;
     width: 100%;
+    border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
 }
 
-.logo {
+header .logo {
     width: 142px;
     height: 60px;
     background: url("../images/logo.png") no-repeat center;
